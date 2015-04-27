@@ -1,5 +1,6 @@
 class Hamming
-  def self.compute('x', 'y')
-    0
+  def self.compute(x, y)
+    count = 0
+
   end
 end
